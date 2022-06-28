@@ -1,0 +1,23 @@
+{
+  "name": "filesystemorganiserproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveen889009/SystemFileOrganiser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveen889009/SystemFileOrganiser/issues"
+  },
+  "homepage": "https://github.com/naveen889009/SystemFileOrganiser#readme",
+  "bin": {
+    "peppy": "main.js"
+  }
+}
